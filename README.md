@@ -1,2 +1,2 @@
-# class105
-This class was about Standard Deviation. 
+# Standard_deviation
+solution for c105
